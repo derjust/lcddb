@@ -1,0 +1,7 @@
+[Project Dir]
+Dirs=
+Files=main.cpp/fmMain.cpp/fmMain.h/fmKonfiguration.cpp/fmKonfiguration.h/fmNeueCD.cpp/fmNeueCD.h/fmSuchen.cpp/fmSuchen.h/fmUebersicht.cpp/fmUebersicht.h/konfig.cpp/konfig.h
+
+[Project File]
+Name=lcddb
+Type=Default
